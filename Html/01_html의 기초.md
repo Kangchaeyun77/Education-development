@@ -1,3 +1,5 @@
+# HTML [기초] 01 개념
+
 # **< html >**
 
 ```jsx
@@ -76,7 +78,8 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
     <p>paragraph!!!!</p>
 </html>
 ```
-![텍스트](https://blog.kakaocdn.net/dn/SjdFW/btrgQz03rM1/kNe2hiFhGrTBHQwCxhgGY0/img.png)
+
+![https://blog.kakaocdn.net/dn/SjdFW/btrgQz03rM1/kNe2hiFhGrTBHQwCxhgGY0/img.png](https://blog.kakaocdn.net/dn/SjdFW/btrgQz03rM1/kNe2hiFhGrTBHQwCxhgGY0/img.png)
 
 ---
 
@@ -89,9 +92,9 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
         <title>문단 연습</title>
     </head>
     <body>
-        <h1>
+     <h1>
             문단 연습 파일
-        </h1>
+     </h1>
         <p>가나다라 마바사 ~~!~!~!</p>
         <p>새로운 문단 가나다라 마바사</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -104,7 +107,7 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/buqZ9U/btrgOtzYG27/KxA7vXyR5zRialh2jskDb1/img.png
+![https://blog.kakaocdn.net/dn/buqZ9U/btrgOtzYG27/KxA7vXyR5zRialh2jskDb1/img.png](https://blog.kakaocdn.net/dn/buqZ9U/btrgOtzYG27/KxA7vXyR5zRialh2jskDb1/img.png)
 
 ---
 
@@ -114,18 +117,18 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
 <!DOCTYPE html>
 
 <html>
-    <head>
+ <head>
         <title>수평자 연습</title>
-    </head>
-    <body>
+ </head>
+ <body>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor nemo facere et. Quae deserunt, culpa minima non accusamus debitis eius quos, suscipit pariatur adipisci neque, doloribus aperiam quis inventore quidem.</p>
         <hr>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia, nostrum nam odio numquam accusantium, cumque rerum atque at laudantium itaque repudiandae et soluta tenetur eaque maiores beatae harum, dolore incidunt?</p>
-    </body>
+ </body>
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/cDqN3X/btrgOueGf4c/WN0BVECnGKQ2QPD5k9KQq0/img.png
+![https://blog.kakaocdn.net/dn/cDqN3X/btrgOueGf4c/WN0BVECnGKQ2QPD5k9KQq0/img.png](https://blog.kakaocdn.net/dn/cDqN3X/btrgOueGf4c/WN0BVECnGKQ2QPD5k9KQq0/img.png)
 
 ---
 
@@ -161,7 +164,7 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/bdfF1o/btrgRS65GN0/boVIogU0vIeYVF90rqDMM1/img.png
+![https://blog.kakaocdn.net/dn/bdfF1o/btrgRS65GN0/boVIogU0vIeYVF90rqDMM1/img.png](https://blog.kakaocdn.net/dn/bdfF1o/btrgRS65GN0/boVIogU0vIeYVF90rqDMM1/img.png)
 
 ---
 
@@ -191,7 +194,7 @@ ex) <H1>제목 제목</H1> <P>문단 문단</P>
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/0A3jB/btrgVSedxNN/yuWtRYUgQZ4O298oB5r0uK/img.png
+![https://blog.kakaocdn.net/dn/0A3jB/btrgVSedxNN/yuWtRYUgQZ4O298oB5r0uK/img.png](https://blog.kakaocdn.net/dn/0A3jB/btrgVSedxNN/yuWtRYUgQZ4O298oB5r0uK/img.png)
 
 ```jsx
 HTML에서 <pre> 태그는 "preformatted text"를 정의합니다. 
@@ -231,7 +234,7 @@ HTML에서 <pre> 태그는 "preformatted text"를 정의합니다.
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/dtchiE/btrgU1WLIbq/LGZBivR627ysjJKooet0M0/img.png
+![https://blog.kakaocdn.net/dn/dtchiE/btrgU1WLIbq/LGZBivR627ysjJKooet0M0/img.png](https://blog.kakaocdn.net/dn/dtchiE/btrgU1WLIbq/LGZBivR627ysjJKooet0M0/img.png)
 
 ```jsx
 `<span>` 태그는 HTML 문서 내에서 특정 부분을 그룹화하거나 스타일링하기 위해 사용됩니다.
@@ -261,7 +264,7 @@ HTML에서 <pre> 태그는 "preformatted text"를 정의합니다.
 </html>
 ```
 
-!https://blog.kakaocdn.net/dn/J7TrR/btrgWDVayYL/jPRtDjHoY7KCgNLkKcYhK0/img.png
+![https://blog.kakaocdn.net/dn/J7TrR/btrgWDVayYL/jPRtDjHoY7KCgNLkKcYhK0/img.png](https://blog.kakaocdn.net/dn/J7TrR/btrgWDVayYL/jPRtDjHoY7KCgNLkKcYhK0/img.png)
 
 ```jsx
 일반적으로 빈 <span> 태그를 <p> 안에 포함하는 것은 의미적으로는 이상하지만, 
@@ -300,4 +303,4 @@ HTML은 중첩된 요소를 허용하므로 <span>은 <p> 안에 사용될 수 �
 <p>Lorem ipsum dolor sit amet.</p>
 ```
 
-!https://blog.kakaocdn.net/dn/bh97Ca/btrgQAlrpJw/ZJBzSGAkLdmwK4uDSAbHH0/img.png
+![https://blog.kakaocdn.net/dn/bh97Ca/btrgQAlrpJw/ZJBzSGAkLdmwK4uDSAbHH0/img.png](https://blog.kakaocdn.net/dn/bh97Ca/btrgQAlrpJw/ZJBzSGAkLdmwK4uDSAbHH0/img.png)
