@@ -107,9 +107,9 @@ HTML속에서 자바코드는 <% 소스코드 %> 또는 <%= 소스코드 =%>형�
 즉, out객체의 println 메소드를 사용해서 구현해야하는 번거로움을 JSP가 대신 수행해줍니다
 ```
 
-[https://t1.daumcdn.net/cfile/tistory/993A7F335A04179D20](https://t1.daumcdn.net/cfile/tistory/993A7F335A04179D20)
+![https://t1.daumcdn.net/cfile/tistory/993A7F335A04179D20](https://t1.daumcdn.net/cfile/tistory/993A7F335A04179D20)
 
-[https://t1.daumcdn.net/cfile/tistory/991870335A04292F0B](https://t1.daumcdn.net/cfile/tistory/991870335A04292F0B)
+![https://t1.daumcdn.net/cfile/tistory/991870335A04292F0B](https://t1.daumcdn.net/cfile/tistory/991870335A04292F0B)
 
 ![https://mblogthumb-phinf.pstatic.net/20150604_85/islove8587_1433408612779SkNsM_JPEG/4_JSP%C0%C7%B5%BF%C0%DB%B1%B8%C1%B6.jpg?type=w2](https://mblogthumb-phinf.pstatic.net/20150604_85/islove8587_1433408612779SkNsM_JPEG/4_JSP%C0%C7%B5%BF%C0%DB%B1%B8%C1%B6.jpg?type=w2)
 
