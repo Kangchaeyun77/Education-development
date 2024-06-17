@@ -1,4 +1,4 @@
-# JQuery 02
+# jquery 02
 
 # **< this >**
 
