@@ -90,16 +90,11 @@ DOM은 HTML 문서의 내용을 볼 수 있는 인터페이스 역할을 하는 
  요소는 제외됩니다.
 예를 들어, `display: none` 스타일 속성을 가지고 있는 요소입니다.
 ```
-
-[https://wit.nts-corp.com/wp-content/uploads/2019/02/-7](https://wit.nts-corp.com/wp-content/uploads/2019/02/-7)
-
 DOM은 `<p>` 요소를 포함시킵니다.
 
-[https://wit.nts-corp.com/wp-content/uploads/2019/02/-9](https://wit.nts-corp.com/wp-content/uploads/2019/02/-9)
+
 
 그러나 렌더 트리에 해당하는 뷰 포트에 표시되는 내용은 `<p>` 요소를 포함하지 않습니다.
-
-[https://wit.nts-corp.com/wp-content/uploads/2019/02/-8](https://wit.nts-corp.com/wp-content/uploads/2019/02/-8)
 
 ```jsx
 개발도구의 요소 검사기는 DOM과 가장 가까운 근사치를 제공합니다. 
@@ -113,9 +108,6 @@ DOM은 `<p>` 요소를 포함시킵니다.
 
 가상 요소가 DOM의 일부가 아님에도 불구하고, 요소 검사기에서는 아래와 같이 확인됩니다.
 ```
-
-[https://wit.nts-corp.com/wp-content/uploads/2019/02/-10](https://wit.nts-corp.com/wp-content/uploads/2019/02/-10)
-
 이러한 이유로 가상 요소는 DOM의 일부가 아니기 때문에 자바스크립트에 의해 수정될 수 없습니다.
 
 # **요약정리**
