@@ -1,4 +1,4 @@
-# Css04
+# css04
 
 ---
 
@@ -923,7 +923,7 @@ day01 안에 수업내용을 저장해놨기 때문이다~
         <div class="menu-item"><i class="fas fa-bars"></i></div>
         <div class="menu-item"><i class="fas fa-home"></i></div>
         <div class="menu-item">HTML</div>
-        <div class="menu-item">CSS</div>
+        <div class="menu-item">css</div>
         <div class="menu-item">JAVASCRIPT</div>
     </div>
 
