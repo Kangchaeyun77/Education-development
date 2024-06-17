@@ -1,4 +1,4 @@
-# Html 기초 03 style
+# html 기초 03 style
 
 # **< style-attribute >**
 
