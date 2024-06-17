@@ -1,6 +1,6 @@
-# JQuery 01
+# jquery 01
 
-# **JQuery 다운받기**
+# **jquery 다운받기**
 
 [https://jquery.com/](https://jquery.com/)
 
