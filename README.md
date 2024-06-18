@@ -11,13 +11,14 @@
 
 </div>
 
+<div align=center> 
 <details>
 <summary>
 매일 매일 성장하는 주니어 개발자
 </summary>
 하나씩 배워서 성장중
 </details>
-
+</div>
 <hr>
 <div align=center> 
 <b>기술</b>
