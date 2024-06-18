@@ -18,7 +18,7 @@
 
 <hr>
 <div align=center> 
-기술
+<b>기술</b>
 </div>
 
 <div align=center> 
