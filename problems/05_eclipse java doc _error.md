@@ -1,4 +1,4 @@
-# eclipse java doc & error
+# eclipse java doc error
 
 날짜: 2024년 6월 18일
 
