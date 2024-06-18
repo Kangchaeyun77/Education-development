@@ -1,5 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=[junior-Developer-Kangchaeyun]%&fontSize=30)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangchaeyun77)](https://github.com/Kangchaeyun77/github-readme-stats)
+<details>
+<summary>
+매일 매일 성장하는 주니어 개발자
+</summary>
+하나씩 배워서 성장중header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=[junior-Developer-Kangchaeyun]%&fontSize=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kangchaeyun77)](https://github.com/Kangchaeyun77/github-readme-stats)
+<details>
+<summary>
+매일 매일 성장하는 주니어 개발자
+</summary>
+하나씩 배워서 성장중
+</details>
 
 <hr>
 <div align=center> 
